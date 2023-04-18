@@ -12,6 +12,6 @@ input
 a(This is an example #color=red #href=https://github.com)
 <br>
 result <br>
-/<a color=red href=https://github.com>This is an example</a>
+<a color=red href=https://github.com>This is an example</a>
 
 this is still in beta stage and has a lot of shortcommings. It can only output a container element and a fix for this wil be released soon.
